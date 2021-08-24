@@ -1,1 +1,1 @@
-# passion-academy
+# Passion Academy
